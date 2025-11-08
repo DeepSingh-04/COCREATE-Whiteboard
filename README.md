@@ -357,12 +357,6 @@ npm run lint
 - `POST /api/export` – Generate board export.
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details. Feel free to fork, modify, and distribute commercially.
-
----
-
 ## 🙌 Acknowledgments
 
 - Built with ❤️ by [DeepSingh-04](https://github.com/DeepSingh-04).
@@ -372,7 +366,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
 
-**For questions, open an issue or ping [@DeepSingh-04](https://x.com/DeepSingh-04) on X/Twitter. Star the repo if it sparks joy! ⭐**
+**For questions, open an issue or ping [@deepsingh_ting](https://x.com/deepsingh_ting) on X/Twitter. Star the repo if it sparks joy! ⭐**
 
 
 </div>
