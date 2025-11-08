@@ -12,7 +12,10 @@
 
 <div align="center">
 
-![Hero Image](https://via.placeholder.com/800x400/4F46E5/FFFFFF?text=COCREATE+Whiteboard+-+Collaborate+Endlessly)
+
+<img width="240" height="210" alt="images" src="https://github.com/user-attachments/assets/fcbabad9-49cf-4e0d-b2b9-3b4bb89511cc" />
+
+
 
 </div>
 
@@ -163,21 +166,24 @@ Visualize the experience with these key screens:
 ### 🏠 Home / Room Entry
 A minimal and elegant entry screen where users can create or join rooms instantly. Features quick-start buttons, room history, and a demo mode.
 
-![Login Page](./screenshots/login.png)
+<img width="1836" height="983" alt="Screenshot 2025-11-08 223115" src="https://github.com/user-attachments/assets/717660a5-55d0-4ef5-b34a-0b948cc10860" />
+
 
 *Alt: Clean landing page with 'Create Room' and 'Join Room' inputs, branded header.*
 
 ### 🎨 Real-time Collaborative Canvas
 A live, shared whiteboard for drawing, chatting, and brainstorming visually. Toolbar on the left, chat on the right, infinite grid background.
 
-![Whiteboard UI](./screenshots/whiteboard.png)
+<img width="1883" height="1006" alt="Screenshot 2025-11-08 223314" src="https://github.com/user-attachments/assets/fe6cfeed-a00a-40c8-995a-0b31d503c989" />
+
 
 *Alt: Full canvas view with sample sketches, color picker open, and zoom controls.*
 
 ### 🤝 Multi-user Collaboration
 Simultaneous drawing sessions across multiple users with real-time updates. Avatars indicate active cursors; conflict resolution via last-write-wins.
 
-![Collaboration Example](./screenshots/collaboration.png)
+<img width="1871" height="939" alt="Screenshot 2025-11-08 223652" src="https://github.com/user-attachments/assets/fc56c594-8947-4de3-a08d-c206f1f0f768" />
+
 
 *Alt: Split-view showing two users drawing overlapping shapes, with synced erases.*
 
@@ -349,9 +355,6 @@ npm run lint
 ### Server-Side Routes (Express)
 - `GET /api/rooms/:id` – Fetch room metadata.
 - `POST /api/export` – Generate board export.
-
-Full docs in [API.md](docs/API.md).
-
 ---
 
 ## 📜 License
@@ -371,7 +374,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **For questions, open an issue or ping [@DeepSingh-04](https://x.com/DeepSingh-04) on X/Twitter. Star the repo if it sparks joy! ⭐**
 
-![Footer Image](https://via.placeholder.com/800x100/1F2937/FFFFFF?text=Open+Source+Collaboration+Powered+by+xAI)
+https://pixabay.com/videos/fire-burn-heat-hot-glow-burning-45311/
 
 </div>
 
