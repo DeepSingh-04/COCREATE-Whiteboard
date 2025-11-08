@@ -374,7 +374,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **For questions, open an issue or ping [@DeepSingh-04](https://x.com/DeepSingh-04) on X/Twitter. Star the repo if it sparks joy! ⭐**
 
-https://github.com/user-attachments/assets/7bd737d0-d05d-4b42-baa2-25715964d945
+
 </div>
 
 ---
