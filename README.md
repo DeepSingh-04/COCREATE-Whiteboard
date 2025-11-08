@@ -1,23 +1,80 @@
-# COCREATE Whiteboard
+# 🧩 COCREATE Whiteboard
+
 [![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/DeepSingh-04/COCREATE-Whiteboard)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![React](https://img.shields.io/badge/Frontend-React.js-blue)
+![Socket.io](https://img.shields.io/badge/Realtime-Socket.io-lightgrey)
+![TailwindCSS](https://img.shields.io/badge/Styling-TailwindCSS-blueviolet)
 
-COCREATE Whiteboard is a real-time, collaborative digital whiteboard designed for seamless teamwork. It provides a shared canvas for brainstorming, planning, and visualizing ideas with your team, no matter where they are.
+> A real-time collaborative digital whiteboard designed for seamless teamwork and creativity — whether you’re brainstorming ideas, planning projects, or teaching remotely.
 
-## Key Features
+---
 
-*   **Real-Time Collaboration:** See changes from your teammates instantly.
-*   **Intuitive Drawing Tools:** A variety of pens, shapes, and colors to express your ideas.
-*   **Sticky Notes:** Organize thoughts and create affinity diagrams with digital sticky notes.
-*   **Infinite Canvas:** Never run out of space. Pan and zoom freely to navigate your board.
-*   **Simple Interface:** A clean and user-friendly design that lets you focus on creating, not on learning the tool.
+## 🖌️ Overview
 
-## Getting Started
+**COCREATE Whiteboard** provides a shared, real-time canvas for individuals and teams to collaborate visually. Draw, sketch, plan, and communicate — all in one place, live.  
+Built using **React**, **Node.js**, and **Socket.io**, it ensures smooth, low-latency updates across users while maintaining a clean, intuitive design.
 
-Follow these instructions to get a local copy up and running for development and testing purposes.
+---
 
-### Prerequisites
+## 🌟 Key Features
 
-You will need Node.js and npm installed on your machine.
+✨ **Real-Time Collaboration:** Instantly see updates and actions from others in your room.  
+🎨 **Intuitive Drawing Tools:** Pens, shapes, colors, erasers, and line styles for creativity.  
+💬 **Live Chat Integration:** Communicate while working on the same board.  
+📋 **Sticky Notes (Planned):** Capture and group quick ideas with virtual notes.  
+🗺️ **Infinite Canvas:** Pan, zoom, and explore a limitless whiteboard.  
+🧑‍🤝‍🧑 **Room System:** Create or join rooms with unique IDs.  
+💾 **Save / Export Board:** Download your creations as images or files.  
+🧠 **Simple Interface:** Focus on creation, not configuration.  
+
+---
+
+## 🧠 Tech Stack
+
+| Category | Technology |
+|-----------|-------------|
+| **Frontend** | React.js ⚛️ |
+| **Backend** | Node.js 🌐 |
+| **Realtime** | Socket.io ⚡ |
+| **Styling** | TailwindCSS 💅 |
+| **Language** | JavaScript (ES6+) |
+| **Hosting** | (Optional: Vercel / Render / Netlify) |
+
+---
+
+## 🧩 Screenshots
+
+### 🏠 Home / Room Entry
+A minimal and elegant entry screen where users can create or join rooms instantly.
+
+![Login Page](./screenshots/login.png)
+
+---
+
+### 🎨 Real-time Collaborative Canvas
+A live, shared whiteboard for drawing, chatting, and brainstorming visually.
+
+![Whiteboard UI](./screenshots/whiteboard.png)
+
+---
+
+### 🤝 Multi-user Collaboration
+Simultaneous drawing sessions across multiple users with real-time updates.
+
+![Collaboration Example](./screenshots/collaboration.png)
+
+---
+
+## ⚙️ Getting Started
+
+Follow these steps to get a local copy up and running for development or testing.
+
+### 🧾 Prerequisites
+
+- [Node.js](https://nodejs.org/) (v16 or higher)
+- npm (comes with Node.js)
+
 
 ### Installation
 
